@@ -1,0 +1,12 @@
+# Terraform local files
+**/.terraform/*
+**/.terraform.lock.hcl
+
+# Local crash logs
+crash.log
+
+# macOS metadata files
+.DS_Store
+
+# Ignore VS Code workspace settings
+.vscode/
